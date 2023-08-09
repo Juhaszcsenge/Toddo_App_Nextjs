@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "05e8a017-d6a7-43ac-9542-c6c393c130f6",
+      "text": "Programozás"
+    },
+    {
+      "id": "d1d55282-260f-43ea-9405-31fcefd8b31d",
+      "text": "Reggel 8-tól  munka"
+    },
+    {
+      "id": "0e8d3c5d-5edc-4508-9bdf-15a996912b98",
+      "text": "Edzés"
+    },
+    {
+      "id": "5cb0b1d7-b2a9-4f8d-8ae6-25362b24ec8f",
+      "text": "Vacsora készítés"
+    }
+  ]
+}
